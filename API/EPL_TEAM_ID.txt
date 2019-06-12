@@ -1,0 +1,40 @@
+Manchester United FC
+66
+Tottenham Hotspur FC
+73
+AFC Bournemouth
+1044
+Aston Villa FC
+58
+Everton FC
+62
+Watford FC
+346
+Leicester City FC
+338
+Sunderland AFC
+71
+Norwich City FC
+68
+Crystal Palace FC
+354
+Chelsea FC
+61
+Swansea City FC
+72
+Newcastle United FC
+67
+Southampton FC
+340
+Arsenal FC
+57
+West Ham United FC
+563
+Stoke City FC
+70
+Liverpool FC
+64
+West Bromwich Albion FC
+74
+Manchester City FC
+65
